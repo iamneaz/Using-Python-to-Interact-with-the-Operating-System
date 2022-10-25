@@ -1,0 +1,1 @@
+#   The exit status is a value returned by a program to the shell. In all Unix-like operating systems, the exit status of the process is zero when the process succeeds and different than zero if it fails. The actual number returned gives additional info on what kind of error the program encountered.
