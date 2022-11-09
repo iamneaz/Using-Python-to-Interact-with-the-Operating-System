@@ -1,0 +1,3 @@
+/mnt/d/Using Pyrhon to Interact with the Operating System/Week_6_Bash_Scripting/data/jane_profile_07272018.doc
+/mnt/d/Using Pyrhon to Interact with the Operating System/Week_6_Bash_Scripting/data/jane_pic_07282018.jpg
+/mnt/d/Using Pyrhon to Interact with the Operating System/Week_6_Bash_Scripting/data/jane_contact_07292018.csv
